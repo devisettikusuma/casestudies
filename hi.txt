@@ -1,2 +1,6 @@
 hi everyone
+<<<<<<< HEAD
 What are you doing?
+=======
+
+>>>>>>> d733a5a2eae80533f1856ae7f738f3bfb9bc646a
